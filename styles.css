@@ -1,0 +1,14 @@
+:root {
+    --mainbg: #231f20;
+    --bluegray: #798086;
+    --txtcolor: #d9e5d6;
+}
+body {
+    background-color: var(--mainbg);
+}
+div {
+    background-color: var(--bluegray);
+}
+p {
+    color: var(--txtcolor);
+}
